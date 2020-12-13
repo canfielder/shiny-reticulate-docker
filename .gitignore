@@ -17,6 +17,15 @@
 # Output files from R CMD check
 /*.Rcheck/
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 # RStudio files
 .Rproj.user/
 
